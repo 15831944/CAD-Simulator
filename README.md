@@ -5,7 +5,7 @@
 ![image](img/clamp.png)
 
 ## 虛擬相機以球座標系定義
-![image](img/球座標系.png =50%x)
+![image](img/球座標系.png)
 
 ## 整體介面
 ![image](img/CAD_UI.png)
